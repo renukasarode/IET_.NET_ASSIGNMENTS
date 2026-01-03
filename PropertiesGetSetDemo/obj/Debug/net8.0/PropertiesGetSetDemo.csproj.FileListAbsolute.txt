@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\PropertiesGetSetDemo\bin\Debug\net8.0\PropertiesGetSetDemo.exe
+C:\Users\IET\Desktop\.Net\PropertiesGetSetDemo\bin\Debug\net8.0\PropertiesGetSetDemo.deps.json
+C:\Users\IET\Desktop\.Net\PropertiesGetSetDemo\bin\Debug\net8.0\PropertiesGetSetDemo.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\PropertiesGetSetDemo\bin\Debug\net8.0\PropertiesGetSetDemo.dll
+C:\Users\IET\Desktop\.Net\PropertiesGetSetDemo\bin\Debug\net8.0\PropertiesGetSetDemo.pdb
+C:\Users\IET\Desktop\.Net\PropertiesGetSetDemo\obj\Debug\net8.0\PropertiesGetSetDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\PropertiesGetSetDemo\obj\Debug\net8.0\PropertiesGetSetDemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\PropertiesGetSetDemo\obj\Debug\net8.0\PropertiesGetSetDemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\PropertiesGetSetDemo\obj\Debug\net8.0\PropertiesGetSetDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\PropertiesGetSetDemo\obj\Debug\net8.0\PropertiesGetSetDemo.sourcelink.json
+C:\Users\IET\Desktop\.Net\PropertiesGetSetDemo\obj\Debug\net8.0\PropertiesGetSetDemo.dll
+C:\Users\IET\Desktop\.Net\PropertiesGetSetDemo\obj\Debug\net8.0\refint\PropertiesGetSetDemo.dll
+C:\Users\IET\Desktop\.Net\PropertiesGetSetDemo\obj\Debug\net8.0\PropertiesGetSetDemo.pdb
+C:\Users\IET\Desktop\.Net\PropertiesGetSetDemo\obj\Debug\net8.0\PropertiesGetSetDemo.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\PropertiesGetSetDemo\obj\Debug\net8.0\ref\PropertiesGetSetDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\25_Demo_Generic_Delegate\bin\Debug\net8.0\25_Demo_Generic_Delegate.exe
+C:\Users\IET\Desktop\.Net\25_Demo_Generic_Delegate\bin\Debug\net8.0\25_Demo_Generic_Delegate.deps.json
+C:\Users\IET\Desktop\.Net\25_Demo_Generic_Delegate\bin\Debug\net8.0\25_Demo_Generic_Delegate.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\25_Demo_Generic_Delegate\bin\Debug\net8.0\25_Demo_Generic_Delegate.dll
+C:\Users\IET\Desktop\.Net\25_Demo_Generic_Delegate\bin\Debug\net8.0\25_Demo_Generic_Delegate.pdb
+C:\Users\IET\Desktop\.Net\25_Demo_Generic_Delegate\obj\Debug\net8.0\25_Demo_Generic_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\25_Demo_Generic_Delegate\obj\Debug\net8.0\25_Demo_Generic_Delegate.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\25_Demo_Generic_Delegate\obj\Debug\net8.0\25_Demo_Generic_Delegate.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\25_Demo_Generic_Delegate\obj\Debug\net8.0\25_Demo_Generic_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\25_Demo_Generic_Delegate\obj\Debug\net8.0\25_Demo_Generic_Delegate.sourcelink.json
+C:\Users\IET\Desktop\.Net\25_Demo_Generic_Delegate\obj\Debug\net8.0\25_Demo_Generic_Delegate.dll
+C:\Users\IET\Desktop\.Net\25_Demo_Generic_Delegate\obj\Debug\net8.0\refint\25_Demo_Generic_Delegate.dll
+C:\Users\IET\Desktop\.Net\25_Demo_Generic_Delegate\obj\Debug\net8.0\25_Demo_Generic_Delegate.pdb
+C:\Users\IET\Desktop\.Net\25_Demo_Generic_Delegate\obj\Debug\net8.0\25_Demo_Generic_Delegate.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\25_Demo_Generic_Delegate\obj\Debug\net8.0\ref\25_Demo_Generic_Delegate.dll

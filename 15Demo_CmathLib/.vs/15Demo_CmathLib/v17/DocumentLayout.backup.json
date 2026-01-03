@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\.Net\\15Demo_CmathLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D755D197-C232-4FA0-983F-5F6B0803D49F}|..\\20_Demo_Collection\\20_Demo_Collection.csproj|c:\\users\\iet\\desktop\\.net\\20_demo_collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF97CD82-0425-48C9-A59D-D31A207B3DD9}|..\\21_Demo_ObserverPattern\\21_Demo_ObserverPattern.csproj|c:\\users\\iet\\desktop\\.net\\21_demo_observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEDF8CA-7AA1-49F9-B5AA-18FA6CB6716D}|..\\20_Demo_MultiCastEvents\\20_Demo_MultiCastEvents.csproj|c:\\users\\iet\\desktop\\.net\\20_demo_multicastevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2F76A5-A70A-4770-899D-E4C2F7FF7789}|..\\19_Demo_Events_Delegates\\19_Demo_Events_Delegates.csproj|c:\\users\\iet\\desktop\\.net\\19_demo_events_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A8E9ED-A922-48D4-B465-B33C369951C7}|..\\18_Demo_Delegates\\18_Demo_Delegates.csproj|c:\\users\\iet\\desktop\\.net\\18_demo_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408F5053-AE03-4226-B447-0E40E2F88134}|..\\WindowsFormsApp2\\17_WindowsFormsApp2.csproj|c:\\users\\iet\\desktop\\.net\\windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408F5053-AE03-4226-B447-0E40E2F88134}|..\\WindowsFormsApp2\\17_WindowsFormsApp2.csproj|c:\\users\\iet\\desktop\\.net\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408F5053-AE03-4226-B447-0E40E2F88134}|..\\WindowsFormsApp2\\17_WindowsFormsApp2.csproj|c:\\users\\iet\\desktop\\.net\\windowsformsapp2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408F5053-AE03-4226-B447-0E40E2F88134}|..\\WindowsFormsApp2\\17_WindowsFormsApp2.csproj|c:\\users\\iet\\desktop\\.net\\windowsformsapp2\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\20_Demo_Collection\\Program.cs",
+              "RelativeDocumentMoniker": "..\\20_Demo_Collection\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\20_Demo_Collection\\Program.cs",
+              "RelativeToolTip": "..\\20_Demo_Collection\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwEcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T15:35:38.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\21_Demo_ObserverPattern\\Program.cs",
+              "RelativeDocumentMoniker": "..\\21_Demo_ObserverPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\21_Demo_ObserverPattern\\Program.cs",
+              "RelativeToolTip": "..\\21_Demo_ObserverPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T15:14:12.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\20_Demo_MultiCastEvents\\Program.cs",
+              "RelativeDocumentMoniker": "..\\20_Demo_MultiCastEvents\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\20_Demo_MultiCastEvents\\Program.cs",
+              "RelativeToolTip": "..\\20_Demo_MultiCastEvents\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T14:52:21.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\19_Demo_Events_Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "..\\19_Demo_Events_Delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\19_Demo_Events_Delegates\\Program.cs",
+              "RelativeToolTip": "..\\19_Demo_Events_Delegates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T14:06:31.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\18_Demo_Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "..\\18_Demo_Delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\18_Demo_Delegates\\Program.cs",
+              "RelativeToolTip": "..\\18_Demo_Delegates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T13:32:53.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\WindowsFormsApp2\\Form1.resx",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp2\\Form1.resx",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\WindowsFormsApp2\\Form1.resx",
+              "RelativeToolTip": "..\\WindowsFormsApp2\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-18T12:14:09.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\WindowsFormsApp2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\WindowsFormsApp2\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\WindowsFormsApp2\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T12:14:02.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\WindowsFormsApp2\\Form1.cs",
+              "RelativeToolTip": "..\\WindowsFormsApp2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T12:09:46.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\WindowsFormsApp2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\WindowsFormsApp2\\Program.cs",
+              "RelativeToolTip": "..\\WindowsFormsApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T12:02:17.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

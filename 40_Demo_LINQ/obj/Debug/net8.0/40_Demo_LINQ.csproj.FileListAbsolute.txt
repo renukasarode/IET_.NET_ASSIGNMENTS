@@ -1,0 +1,5 @@
+C:\Users\IET\Desktop\.Net\40_Demo_LINQ\obj\Debug\net8.0\40_Demo_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\40_Demo_LINQ\obj\Debug\net8.0\40_Demo_LINQ.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\40_Demo_LINQ\obj\Debug\net8.0\40_Demo_LINQ.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\40_Demo_LINQ\obj\Debug\net8.0\40_Demo_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\40_Demo_LINQ\obj\Debug\net8.0\40_Demo_LINQ.sourcelink.json

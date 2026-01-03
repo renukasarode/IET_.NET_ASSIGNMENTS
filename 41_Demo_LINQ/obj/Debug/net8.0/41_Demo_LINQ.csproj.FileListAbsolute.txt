@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\41_Demo_LINQ\obj\Debug\net8.0\41_Demo_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\41_Demo_LINQ\obj\Debug\net8.0\41_Demo_LINQ.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\41_Demo_LINQ\obj\Debug\net8.0\41_Demo_LINQ.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\41_Demo_LINQ\obj\Debug\net8.0\41_Demo_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\41_Demo_LINQ\obj\Debug\net8.0\41_Demo_LINQ.sourcelink.json
+C:\Users\IET\Desktop\.Net\41_Demo_LINQ\bin\Debug\net8.0\41_Demo_LINQ.exe
+C:\Users\IET\Desktop\.Net\41_Demo_LINQ\bin\Debug\net8.0\41_Demo_LINQ.deps.json
+C:\Users\IET\Desktop\.Net\41_Demo_LINQ\bin\Debug\net8.0\41_Demo_LINQ.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\41_Demo_LINQ\bin\Debug\net8.0\41_Demo_LINQ.dll
+C:\Users\IET\Desktop\.Net\41_Demo_LINQ\bin\Debug\net8.0\41_Demo_LINQ.pdb
+C:\Users\IET\Desktop\.Net\41_Demo_LINQ\obj\Debug\net8.0\41_Demo_LINQ.dll
+C:\Users\IET\Desktop\.Net\41_Demo_LINQ\obj\Debug\net8.0\refint\41_Demo_LINQ.dll
+C:\Users\IET\Desktop\.Net\41_Demo_LINQ\obj\Debug\net8.0\41_Demo_LINQ.pdb
+C:\Users\IET\Desktop\.Net\41_Demo_LINQ\obj\Debug\net8.0\41_Demo_LINQ.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\41_Demo_LINQ\obj\Debug\net8.0\ref\41_Demo_LINQ.dll

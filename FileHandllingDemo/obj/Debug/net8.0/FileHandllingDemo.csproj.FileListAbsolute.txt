@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\FileHandllingDemo\bin\Debug\net8.0\FileHandllingDemo.exe
+C:\Users\IET\Desktop\.Net\FileHandllingDemo\bin\Debug\net8.0\FileHandllingDemo.deps.json
+C:\Users\IET\Desktop\.Net\FileHandllingDemo\bin\Debug\net8.0\FileHandllingDemo.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\FileHandllingDemo\bin\Debug\net8.0\FileHandllingDemo.dll
+C:\Users\IET\Desktop\.Net\FileHandllingDemo\bin\Debug\net8.0\FileHandllingDemo.pdb
+C:\Users\IET\Desktop\.Net\FileHandllingDemo\obj\Debug\net8.0\FileHandllingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\FileHandllingDemo\obj\Debug\net8.0\FileHandllingDemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\FileHandllingDemo\obj\Debug\net8.0\FileHandllingDemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\FileHandllingDemo\obj\Debug\net8.0\FileHandllingDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\FileHandllingDemo\obj\Debug\net8.0\FileHandllingDemo.sourcelink.json
+C:\Users\IET\Desktop\.Net\FileHandllingDemo\obj\Debug\net8.0\FileHandllingDemo.dll
+C:\Users\IET\Desktop\.Net\FileHandllingDemo\obj\Debug\net8.0\refint\FileHandllingDemo.dll
+C:\Users\IET\Desktop\.Net\FileHandllingDemo\obj\Debug\net8.0\FileHandllingDemo.pdb
+C:\Users\IET\Desktop\.Net\FileHandllingDemo\obj\Debug\net8.0\FileHandllingDemo.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\FileHandllingDemo\obj\Debug\net8.0\ref\FileHandllingDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\31_Demo_Bvs_Attribute\bin\Debug\net8.0\31_Demo_Bvs_Attribute.exe
+C:\Users\IET\Desktop\.Net\31_Demo_Bvs_Attribute\bin\Debug\net8.0\31_Demo_Bvs_Attribute.deps.json
+C:\Users\IET\Desktop\.Net\31_Demo_Bvs_Attribute\bin\Debug\net8.0\31_Demo_Bvs_Attribute.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\31_Demo_Bvs_Attribute\bin\Debug\net8.0\31_Demo_Bvs_Attribute.dll
+C:\Users\IET\Desktop\.Net\31_Demo_Bvs_Attribute\bin\Debug\net8.0\31_Demo_Bvs_Attribute.pdb
+C:\Users\IET\Desktop\.Net\31_Demo_Bvs_Attribute\obj\Debug\net8.0\31_Demo_Bvs_Attribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\31_Demo_Bvs_Attribute\obj\Debug\net8.0\31_Demo_Bvs_Attribute.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\31_Demo_Bvs_Attribute\obj\Debug\net8.0\31_Demo_Bvs_Attribute.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\31_Demo_Bvs_Attribute\obj\Debug\net8.0\31_Demo_Bvs_Attribute.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\31_Demo_Bvs_Attribute\obj\Debug\net8.0\31_Demo_Bvs_Attribute.sourcelink.json
+C:\Users\IET\Desktop\.Net\31_Demo_Bvs_Attribute\obj\Debug\net8.0\31_Demo_Bvs_Attribute.dll
+C:\Users\IET\Desktop\.Net\31_Demo_Bvs_Attribute\obj\Debug\net8.0\refint\31_Demo_Bvs_Attribute.dll
+C:\Users\IET\Desktop\.Net\31_Demo_Bvs_Attribute\obj\Debug\net8.0\31_Demo_Bvs_Attribute.pdb
+C:\Users\IET\Desktop\.Net\31_Demo_Bvs_Attribute\obj\Debug\net8.0\31_Demo_Bvs_Attribute.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\31_Demo_Bvs_Attribute\obj\Debug\net8.0\ref\31_Demo_Bvs_Attribute.dll

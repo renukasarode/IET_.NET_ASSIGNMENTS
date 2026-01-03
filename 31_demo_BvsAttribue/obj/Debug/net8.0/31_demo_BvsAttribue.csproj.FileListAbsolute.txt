@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\.Net\31_demo_BvsAttribue\bin\Debug\net8.0\31_demo_BvsAttribue.deps.json
+C:\Users\IET\Desktop\.Net\31_demo_BvsAttribue\bin\Debug\net8.0\31_demo_BvsAttribue.dll
+C:\Users\IET\Desktop\.Net\31_demo_BvsAttribue\bin\Debug\net8.0\31_demo_BvsAttribue.pdb
+C:\Users\IET\Desktop\.Net\31_demo_BvsAttribue\obj\Debug\net8.0\31_demo_BvsAttribue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\31_demo_BvsAttribue\obj\Debug\net8.0\31_demo_BvsAttribue.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\31_demo_BvsAttribue\obj\Debug\net8.0\31_demo_BvsAttribue.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\31_demo_BvsAttribue\obj\Debug\net8.0\31_demo_BvsAttribue.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\31_demo_BvsAttribue\obj\Debug\net8.0\31_demo_BvsAttribue.sourcelink.json
+C:\Users\IET\Desktop\.Net\31_demo_BvsAttribue\obj\Debug\net8.0\31_demo_BvsAttribue.dll
+C:\Users\IET\Desktop\.Net\31_demo_BvsAttribue\obj\Debug\net8.0\refint\31_demo_BvsAttribue.dll
+C:\Users\IET\Desktop\.Net\31_demo_BvsAttribue\obj\Debug\net8.0\31_demo_BvsAttribue.pdb
+C:\Users\IET\Desktop\.Net\31_demo_BvsAttribue\obj\Debug\net8.0\ref\31_demo_BvsAttribue.dll

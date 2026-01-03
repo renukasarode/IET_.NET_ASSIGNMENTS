@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\29_Reflection_Demo\bin\Debug\net8.0\29_Reflection_Demo.exe
+C:\Users\IET\Desktop\.Net\29_Reflection_Demo\bin\Debug\net8.0\29_Reflection_Demo.deps.json
+C:\Users\IET\Desktop\.Net\29_Reflection_Demo\bin\Debug\net8.0\29_Reflection_Demo.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\29_Reflection_Demo\bin\Debug\net8.0\29_Reflection_Demo.dll
+C:\Users\IET\Desktop\.Net\29_Reflection_Demo\bin\Debug\net8.0\29_Reflection_Demo.pdb
+C:\Users\IET\Desktop\.Net\29_Reflection_Demo\obj\Debug\net8.0\29_Reflection_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\29_Reflection_Demo\obj\Debug\net8.0\29_Reflection_Demo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\29_Reflection_Demo\obj\Debug\net8.0\29_Reflection_Demo.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\29_Reflection_Demo\obj\Debug\net8.0\29_Reflection_Demo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\29_Reflection_Demo\obj\Debug\net8.0\29_Reflection_Demo.sourcelink.json
+C:\Users\IET\Desktop\.Net\29_Reflection_Demo\obj\Debug\net8.0\29_Reflection_Demo.dll
+C:\Users\IET\Desktop\.Net\29_Reflection_Demo\obj\Debug\net8.0\refint\29_Reflection_Demo.dll
+C:\Users\IET\Desktop\.Net\29_Reflection_Demo\obj\Debug\net8.0\29_Reflection_Demo.pdb
+C:\Users\IET\Desktop\.Net\29_Reflection_Demo\obj\Debug\net8.0\29_Reflection_Demo.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\29_Reflection_Demo\obj\Debug\net8.0\ref\29_Reflection_Demo.dll

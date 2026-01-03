@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\BoxingAndUnBoxing\bin\Debug\net8.0\BoxingAndUnBoxing.exe
+C:\Users\IET\Desktop\.Net\BoxingAndUnBoxing\bin\Debug\net8.0\BoxingAndUnBoxing.deps.json
+C:\Users\IET\Desktop\.Net\BoxingAndUnBoxing\bin\Debug\net8.0\BoxingAndUnBoxing.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\BoxingAndUnBoxing\bin\Debug\net8.0\BoxingAndUnBoxing.dll
+C:\Users\IET\Desktop\.Net\BoxingAndUnBoxing\bin\Debug\net8.0\BoxingAndUnBoxing.pdb
+C:\Users\IET\Desktop\.Net\BoxingAndUnBoxing\obj\Debug\net8.0\BoxingAndUnBoxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\BoxingAndUnBoxing\obj\Debug\net8.0\BoxingAndUnBoxing.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\BoxingAndUnBoxing\obj\Debug\net8.0\BoxingAndUnBoxing.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\BoxingAndUnBoxing\obj\Debug\net8.0\BoxingAndUnBoxing.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\BoxingAndUnBoxing\obj\Debug\net8.0\BoxingAndUnBoxing.sourcelink.json
+C:\Users\IET\Desktop\.Net\BoxingAndUnBoxing\obj\Debug\net8.0\BoxingAndUnBoxing.dll
+C:\Users\IET\Desktop\.Net\BoxingAndUnBoxing\obj\Debug\net8.0\refint\BoxingAndUnBoxing.dll
+C:\Users\IET\Desktop\.Net\BoxingAndUnBoxing\obj\Debug\net8.0\BoxingAndUnBoxing.pdb
+C:\Users\IET\Desktop\.Net\BoxingAndUnBoxing\obj\Debug\net8.0\BoxingAndUnBoxing.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\BoxingAndUnBoxing\obj\Debug\net8.0\ref\BoxingAndUnBoxing.dll

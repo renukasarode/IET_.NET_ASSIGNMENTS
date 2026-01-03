@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\AccessibilityDemoCmathLib\bin\Debug\net8.0\AccessibilityDemoCmathLib.exe
+C:\Users\IET\Desktop\.Net\AccessibilityDemoCmathLib\bin\Debug\net8.0\AccessibilityDemoCmathLib.deps.json
+C:\Users\IET\Desktop\.Net\AccessibilityDemoCmathLib\bin\Debug\net8.0\AccessibilityDemoCmathLib.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\AccessibilityDemoCmathLib\bin\Debug\net8.0\AccessibilityDemoCmathLib.dll
+C:\Users\IET\Desktop\.Net\AccessibilityDemoCmathLib\bin\Debug\net8.0\AccessibilityDemoCmathLib.pdb
+C:\Users\IET\Desktop\.Net\AccessibilityDemoCmathLib\obj\Debug\net8.0\AccessibilityDemoCmathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\AccessibilityDemoCmathLib\obj\Debug\net8.0\AccessibilityDemoCmathLib.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\AccessibilityDemoCmathLib\obj\Debug\net8.0\AccessibilityDemoCmathLib.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\AccessibilityDemoCmathLib\obj\Debug\net8.0\AccessibilityDemoCmathLib.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\AccessibilityDemoCmathLib\obj\Debug\net8.0\AccessibilityDemoCmathLib.sourcelink.json
+C:\Users\IET\Desktop\.Net\AccessibilityDemoCmathLib\obj\Debug\net8.0\AccessibilityDemoCmathLib.dll
+C:\Users\IET\Desktop\.Net\AccessibilityDemoCmathLib\obj\Debug\net8.0\refint\AccessibilityDemoCmathLib.dll
+C:\Users\IET\Desktop\.Net\AccessibilityDemoCmathLib\obj\Debug\net8.0\AccessibilityDemoCmathLib.pdb
+C:\Users\IET\Desktop\.Net\AccessibilityDemoCmathLib\obj\Debug\net8.0\AccessibilityDemoCmathLib.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\AccessibilityDemoCmathLib\obj\Debug\net8.0\ref\AccessibilityDemoCmathLib.dll

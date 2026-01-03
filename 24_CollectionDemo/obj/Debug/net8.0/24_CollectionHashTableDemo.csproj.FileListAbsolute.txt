@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\24_CollectionDemo\bin\Debug\net8.0\24_CollectionHashTableDemo.exe
+C:\Users\IET\Desktop\.Net\24_CollectionDemo\bin\Debug\net8.0\24_CollectionHashTableDemo.deps.json
+C:\Users\IET\Desktop\.Net\24_CollectionDemo\bin\Debug\net8.0\24_CollectionHashTableDemo.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\24_CollectionDemo\bin\Debug\net8.0\24_CollectionHashTableDemo.dll
+C:\Users\IET\Desktop\.Net\24_CollectionDemo\bin\Debug\net8.0\24_CollectionHashTableDemo.pdb
+C:\Users\IET\Desktop\.Net\24_CollectionDemo\obj\Debug\net8.0\24_CollectionHashTableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\24_CollectionDemo\obj\Debug\net8.0\24_CollectionHashTableDemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\24_CollectionDemo\obj\Debug\net8.0\24_CollectionHashTableDemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\24_CollectionDemo\obj\Debug\net8.0\24_CollectionHashTableDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\24_CollectionDemo\obj\Debug\net8.0\24_CollectionHashTableDemo.sourcelink.json
+C:\Users\IET\Desktop\.Net\24_CollectionDemo\obj\Debug\net8.0\24_CollectionHashTableDemo.dll
+C:\Users\IET\Desktop\.Net\24_CollectionDemo\obj\Debug\net8.0\refint\24_CollectionHashTableDemo.dll
+C:\Users\IET\Desktop\.Net\24_CollectionDemo\obj\Debug\net8.0\24_CollectionHashTableDemo.pdb
+C:\Users\IET\Desktop\.Net\24_CollectionDemo\obj\Debug\net8.0\24_CollectionHashTableDemo.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\24_CollectionDemo\obj\Debug\net8.0\ref\24_CollectionHashTableDemo.dll

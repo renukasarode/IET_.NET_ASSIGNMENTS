@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\37_Demo_CsharpFeatures\bin\Debug\net8.0\37_Demo_CsharpFeatures.exe
+C:\Users\IET\Desktop\.Net\37_Demo_CsharpFeatures\bin\Debug\net8.0\37_Demo_CsharpFeatures.deps.json
+C:\Users\IET\Desktop\.Net\37_Demo_CsharpFeatures\bin\Debug\net8.0\37_Demo_CsharpFeatures.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\37_Demo_CsharpFeatures\bin\Debug\net8.0\37_Demo_CsharpFeatures.dll
+C:\Users\IET\Desktop\.Net\37_Demo_CsharpFeatures\bin\Debug\net8.0\37_Demo_CsharpFeatures.pdb
+C:\Users\IET\Desktop\.Net\37_Demo_CsharpFeatures\obj\Debug\net8.0\37_Demo_CsharpFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\37_Demo_CsharpFeatures\obj\Debug\net8.0\37_Demo_CsharpFeatures.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\37_Demo_CsharpFeatures\obj\Debug\net8.0\37_Demo_CsharpFeatures.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\37_Demo_CsharpFeatures\obj\Debug\net8.0\37_Demo_CsharpFeatures.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\37_Demo_CsharpFeatures\obj\Debug\net8.0\37_Demo_CsharpFeatures.sourcelink.json
+C:\Users\IET\Desktop\.Net\37_Demo_CsharpFeatures\obj\Debug\net8.0\37_Demo_CsharpFeatures.dll
+C:\Users\IET\Desktop\.Net\37_Demo_CsharpFeatures\obj\Debug\net8.0\refint\37_Demo_CsharpFeatures.dll
+C:\Users\IET\Desktop\.Net\37_Demo_CsharpFeatures\obj\Debug\net8.0\37_Demo_CsharpFeatures.pdb
+C:\Users\IET\Desktop\.Net\37_Demo_CsharpFeatures\obj\Debug\net8.0\37_Demo_CsharpFeatures.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\37_Demo_CsharpFeatures\obj\Debug\net8.0\ref\37_Demo_CsharpFeatures.dll

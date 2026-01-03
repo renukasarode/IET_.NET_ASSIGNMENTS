@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\19_Demo_Events_Delegates\bin\Debug\net8.0\19_Demo_Events_Delegates.exe
+C:\Users\IET\Desktop\.Net\19_Demo_Events_Delegates\bin\Debug\net8.0\19_Demo_Events_Delegates.deps.json
+C:\Users\IET\Desktop\.Net\19_Demo_Events_Delegates\bin\Debug\net8.0\19_Demo_Events_Delegates.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\19_Demo_Events_Delegates\bin\Debug\net8.0\19_Demo_Events_Delegates.dll
+C:\Users\IET\Desktop\.Net\19_Demo_Events_Delegates\bin\Debug\net8.0\19_Demo_Events_Delegates.pdb
+C:\Users\IET\Desktop\.Net\19_Demo_Events_Delegates\obj\Debug\net8.0\19_Demo_Events_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\19_Demo_Events_Delegates\obj\Debug\net8.0\19_Demo_Events_Delegates.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\19_Demo_Events_Delegates\obj\Debug\net8.0\19_Demo_Events_Delegates.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\19_Demo_Events_Delegates\obj\Debug\net8.0\19_Demo_Events_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\19_Demo_Events_Delegates\obj\Debug\net8.0\19_Demo_Events_Delegates.sourcelink.json
+C:\Users\IET\Desktop\.Net\19_Demo_Events_Delegates\obj\Debug\net8.0\19_Demo_Events_Delegates.dll
+C:\Users\IET\Desktop\.Net\19_Demo_Events_Delegates\obj\Debug\net8.0\refint\19_Demo_Events_Delegates.dll
+C:\Users\IET\Desktop\.Net\19_Demo_Events_Delegates\obj\Debug\net8.0\19_Demo_Events_Delegates.pdb
+C:\Users\IET\Desktop\.Net\19_Demo_Events_Delegates\obj\Debug\net8.0\19_Demo_Events_Delegates.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\19_Demo_Events_Delegates\obj\Debug\net8.0\ref\19_Demo_Events_Delegates.dll

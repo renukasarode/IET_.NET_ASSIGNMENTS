@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\Tuple_Demo\obj\Debug\net8.0\Tuple_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Tuple_Demo\obj\Debug\net8.0\Tuple_Demo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Tuple_Demo\obj\Debug\net8.0\Tuple_Demo.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Tuple_Demo\obj\Debug\net8.0\Tuple_Demo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Tuple_Demo\obj\Debug\net8.0\Tuple_Demo.sourcelink.json
+C:\Users\IET\Desktop\.Net\Tuple_Demo\bin\Debug\net8.0\Tuple_Demo.exe
+C:\Users\IET\Desktop\.Net\Tuple_Demo\bin\Debug\net8.0\Tuple_Demo.deps.json
+C:\Users\IET\Desktop\.Net\Tuple_Demo\bin\Debug\net8.0\Tuple_Demo.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Tuple_Demo\bin\Debug\net8.0\Tuple_Demo.dll
+C:\Users\IET\Desktop\.Net\Tuple_Demo\bin\Debug\net8.0\Tuple_Demo.pdb
+C:\Users\IET\Desktop\.Net\Tuple_Demo\obj\Debug\net8.0\Tuple_Demo.dll
+C:\Users\IET\Desktop\.Net\Tuple_Demo\obj\Debug\net8.0\refint\Tuple_Demo.dll
+C:\Users\IET\Desktop\.Net\Tuple_Demo\obj\Debug\net8.0\Tuple_Demo.pdb
+C:\Users\IET\Desktop\.Net\Tuple_Demo\obj\Debug\net8.0\Tuple_Demo.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Tuple_Demo\obj\Debug\net8.0\ref\Tuple_Demo.dll

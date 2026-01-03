@@ -1,0 +1,1 @@
+CREATE TABLE Employee(id int,name varchar(20),address varchar(20))

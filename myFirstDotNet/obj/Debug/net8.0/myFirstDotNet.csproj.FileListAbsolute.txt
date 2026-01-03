@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\myFirstDotNet\bin\Debug\net8.0\myFirstDotNet.exe
+C:\Users\IET\Desktop\.Net\myFirstDotNet\bin\Debug\net8.0\myFirstDotNet.deps.json
+C:\Users\IET\Desktop\.Net\myFirstDotNet\bin\Debug\net8.0\myFirstDotNet.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\myFirstDotNet\bin\Debug\net8.0\myFirstDotNet.dll
+C:\Users\IET\Desktop\.Net\myFirstDotNet\bin\Debug\net8.0\myFirstDotNet.pdb
+C:\Users\IET\Desktop\.Net\myFirstDotNet\obj\Debug\net8.0\myFirstDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\myFirstDotNet\obj\Debug\net8.0\myFirstDotNet.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\myFirstDotNet\obj\Debug\net8.0\myFirstDotNet.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\myFirstDotNet\obj\Debug\net8.0\myFirstDotNet.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\myFirstDotNet\obj\Debug\net8.0\myFirstDotNet.sourcelink.json
+C:\Users\IET\Desktop\.Net\myFirstDotNet\obj\Debug\net8.0\myFirstDotNet.dll
+C:\Users\IET\Desktop\.Net\myFirstDotNet\obj\Debug\net8.0\refint\myFirstDotNet.dll
+C:\Users\IET\Desktop\.Net\myFirstDotNet\obj\Debug\net8.0\myFirstDotNet.pdb
+C:\Users\IET\Desktop\.Net\myFirstDotNet\obj\Debug\net8.0\myFirstDotNet.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\myFirstDotNet\obj\Debug\net8.0\ref\myFirstDotNet.dll

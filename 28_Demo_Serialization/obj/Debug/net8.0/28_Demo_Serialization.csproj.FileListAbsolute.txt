@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\28_Demo_Serialization\bin\Debug\net8.0\28_Demo_Serialization.exe
+C:\Users\IET\Desktop\.Net\28_Demo_Serialization\bin\Debug\net8.0\28_Demo_Serialization.deps.json
+C:\Users\IET\Desktop\.Net\28_Demo_Serialization\bin\Debug\net8.0\28_Demo_Serialization.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\28_Demo_Serialization\bin\Debug\net8.0\28_Demo_Serialization.dll
+C:\Users\IET\Desktop\.Net\28_Demo_Serialization\bin\Debug\net8.0\28_Demo_Serialization.pdb
+C:\Users\IET\Desktop\.Net\28_Demo_Serialization\obj\Debug\net8.0\28_Demo_Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\28_Demo_Serialization\obj\Debug\net8.0\28_Demo_Serialization.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\28_Demo_Serialization\obj\Debug\net8.0\28_Demo_Serialization.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\28_Demo_Serialization\obj\Debug\net8.0\28_Demo_Serialization.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\28_Demo_Serialization\obj\Debug\net8.0\28_Demo_Serialization.sourcelink.json
+C:\Users\IET\Desktop\.Net\28_Demo_Serialization\obj\Debug\net8.0\28_Demo_Serialization.dll
+C:\Users\IET\Desktop\.Net\28_Demo_Serialization\obj\Debug\net8.0\refint\28_Demo_Serialization.dll
+C:\Users\IET\Desktop\.Net\28_Demo_Serialization\obj\Debug\net8.0\28_Demo_Serialization.pdb
+C:\Users\IET\Desktop\.Net\28_Demo_Serialization\obj\Debug\net8.0\28_Demo_Serialization.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\28_Demo_Serialization\obj\Debug\net8.0\ref\28_Demo_Serialization.dll

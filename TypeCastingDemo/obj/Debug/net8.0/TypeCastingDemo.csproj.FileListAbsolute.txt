@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\TypeCastingDemo\bin\Debug\net8.0\TypeCastingDemo.exe
+C:\Users\IET\Desktop\.Net\TypeCastingDemo\bin\Debug\net8.0\TypeCastingDemo.deps.json
+C:\Users\IET\Desktop\.Net\TypeCastingDemo\bin\Debug\net8.0\TypeCastingDemo.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\TypeCastingDemo\bin\Debug\net8.0\TypeCastingDemo.dll
+C:\Users\IET\Desktop\.Net\TypeCastingDemo\bin\Debug\net8.0\TypeCastingDemo.pdb
+C:\Users\IET\Desktop\.Net\TypeCastingDemo\obj\Debug\net8.0\TypeCastingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\TypeCastingDemo\obj\Debug\net8.0\TypeCastingDemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\TypeCastingDemo\obj\Debug\net8.0\TypeCastingDemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\TypeCastingDemo\obj\Debug\net8.0\TypeCastingDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\TypeCastingDemo\obj\Debug\net8.0\TypeCastingDemo.sourcelink.json
+C:\Users\IET\Desktop\.Net\TypeCastingDemo\obj\Debug\net8.0\TypeCastingDemo.dll
+C:\Users\IET\Desktop\.Net\TypeCastingDemo\obj\Debug\net8.0\refint\TypeCastingDemo.dll
+C:\Users\IET\Desktop\.Net\TypeCastingDemo\obj\Debug\net8.0\TypeCastingDemo.pdb
+C:\Users\IET\Desktop\.Net\TypeCastingDemo\obj\Debug\net8.0\TypeCastingDemo.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\TypeCastingDemo\obj\Debug\net8.0\ref\TypeCastingDemo.dll

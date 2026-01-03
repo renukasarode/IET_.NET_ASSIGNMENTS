@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\44Demo_StoredProcedure\bin\Debug\net8.0\44Demo_StoredProcedure.exe
+C:\Users\IET\Desktop\.Net\44Demo_StoredProcedure\bin\Debug\net8.0\44Demo_StoredProcedure.deps.json
+C:\Users\IET\Desktop\.Net\44Demo_StoredProcedure\bin\Debug\net8.0\44Demo_StoredProcedure.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\44Demo_StoredProcedure\bin\Debug\net8.0\44Demo_StoredProcedure.dll
+C:\Users\IET\Desktop\.Net\44Demo_StoredProcedure\bin\Debug\net8.0\44Demo_StoredProcedure.pdb
+C:\Users\IET\Desktop\.Net\44Demo_StoredProcedure\obj\Debug\net8.0\44Demo_StoredProcedure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\44Demo_StoredProcedure\obj\Debug\net8.0\44Demo_StoredProcedure.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\44Demo_StoredProcedure\obj\Debug\net8.0\44Demo_StoredProcedure.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\44Demo_StoredProcedure\obj\Debug\net8.0\44Demo_StoredProcedure.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\44Demo_StoredProcedure\obj\Debug\net8.0\44Demo_StoredProcedure.sourcelink.json
+C:\Users\IET\Desktop\.Net\44Demo_StoredProcedure\obj\Debug\net8.0\44Demo_StoredProcedure.dll
+C:\Users\IET\Desktop\.Net\44Demo_StoredProcedure\obj\Debug\net8.0\refint\44Demo_StoredProcedure.dll
+C:\Users\IET\Desktop\.Net\44Demo_StoredProcedure\obj\Debug\net8.0\44Demo_StoredProcedure.pdb
+C:\Users\IET\Desktop\.Net\44Demo_StoredProcedure\obj\Debug\net8.0\44Demo_StoredProcedure.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\44Demo_StoredProcedure\obj\Debug\net8.0\ref\44Demo_StoredProcedure.dll

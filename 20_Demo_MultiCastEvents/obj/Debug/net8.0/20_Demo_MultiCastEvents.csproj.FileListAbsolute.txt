@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\20_Demo_MultiCastEvents\bin\Debug\net8.0\20_Demo_MultiCastEvents.exe
+C:\Users\IET\Desktop\.Net\20_Demo_MultiCastEvents\bin\Debug\net8.0\20_Demo_MultiCastEvents.deps.json
+C:\Users\IET\Desktop\.Net\20_Demo_MultiCastEvents\bin\Debug\net8.0\20_Demo_MultiCastEvents.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\20_Demo_MultiCastEvents\bin\Debug\net8.0\20_Demo_MultiCastEvents.dll
+C:\Users\IET\Desktop\.Net\20_Demo_MultiCastEvents\bin\Debug\net8.0\20_Demo_MultiCastEvents.pdb
+C:\Users\IET\Desktop\.Net\20_Demo_MultiCastEvents\obj\Debug\net8.0\20_Demo_MultiCastEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\20_Demo_MultiCastEvents\obj\Debug\net8.0\20_Demo_MultiCastEvents.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\20_Demo_MultiCastEvents\obj\Debug\net8.0\20_Demo_MultiCastEvents.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\20_Demo_MultiCastEvents\obj\Debug\net8.0\20_Demo_MultiCastEvents.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\20_Demo_MultiCastEvents\obj\Debug\net8.0\20_Demo_MultiCastEvents.sourcelink.json
+C:\Users\IET\Desktop\.Net\20_Demo_MultiCastEvents\obj\Debug\net8.0\20_Demo_MultiCastEvents.dll
+C:\Users\IET\Desktop\.Net\20_Demo_MultiCastEvents\obj\Debug\net8.0\refint\20_Demo_MultiCastEvents.dll
+C:\Users\IET\Desktop\.Net\20_Demo_MultiCastEvents\obj\Debug\net8.0\20_Demo_MultiCastEvents.pdb
+C:\Users\IET\Desktop\.Net\20_Demo_MultiCastEvents\obj\Debug\net8.0\20_Demo_MultiCastEvents.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\20_Demo_MultiCastEvents\obj\Debug\net8.0\ref\20_Demo_MultiCastEvents.dll

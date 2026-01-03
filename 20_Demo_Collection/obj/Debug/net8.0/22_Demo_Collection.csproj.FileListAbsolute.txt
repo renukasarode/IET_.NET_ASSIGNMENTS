@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\20_Demo_Collection\bin\Debug\net8.0\22_Demo_Collection.exe
+C:\Users\IET\Desktop\.Net\20_Demo_Collection\bin\Debug\net8.0\22_Demo_Collection.deps.json
+C:\Users\IET\Desktop\.Net\20_Demo_Collection\bin\Debug\net8.0\22_Demo_Collection.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\20_Demo_Collection\bin\Debug\net8.0\22_Demo_Collection.dll
+C:\Users\IET\Desktop\.Net\20_Demo_Collection\bin\Debug\net8.0\22_Demo_Collection.pdb
+C:\Users\IET\Desktop\.Net\20_Demo_Collection\obj\Debug\net8.0\22_Demo_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\20_Demo_Collection\obj\Debug\net8.0\22_Demo_Collection.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\20_Demo_Collection\obj\Debug\net8.0\22_Demo_Collection.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\20_Demo_Collection\obj\Debug\net8.0\22_Demo_Collection.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\20_Demo_Collection\obj\Debug\net8.0\22_Demo_Collection.sourcelink.json
+C:\Users\IET\Desktop\.Net\20_Demo_Collection\obj\Debug\net8.0\22_Demo_Collection.dll
+C:\Users\IET\Desktop\.Net\20_Demo_Collection\obj\Debug\net8.0\refint\22_Demo_Collection.dll
+C:\Users\IET\Desktop\.Net\20_Demo_Collection\obj\Debug\net8.0\22_Demo_Collection.pdb
+C:\Users\IET\Desktop\.Net\20_Demo_Collection\obj\Debug\net8.0\22_Demo_Collection.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\20_Demo_Collection\obj\Debug\net8.0\ref\22_Demo_Collection.dll

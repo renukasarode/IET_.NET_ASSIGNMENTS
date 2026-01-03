@@ -1,0 +1,16 @@
+C:\Users\IET\Desktop\.Net\34_demo_CustomizedAttribute\bin\Debug\net8.0\34_demo_CustomizedAttribute.deps.json
+C:\Users\IET\Desktop\.Net\34_demo_CustomizedAttribute\bin\Debug\net8.0\34_demo_CustomizedAttribute.dll
+C:\Users\IET\Desktop\.Net\34_demo_CustomizedAttribute\bin\Debug\net8.0\34_demo_CustomizedAttribute.pdb
+C:\Users\IET\Desktop\.Net\34_demo_CustomizedAttribute\obj\Debug\net8.0\34_demo_CustomizedAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\34_demo_CustomizedAttribute\obj\Debug\net8.0\34_demo_CustomizedAttribute.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\34_demo_CustomizedAttribute\obj\Debug\net8.0\34_demo_CustomizedAttribute.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\34_demo_CustomizedAttribute\obj\Debug\net8.0\34_demo_CustomizedAttribute.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\34_demo_CustomizedAttribute\obj\Debug\net8.0\34_demo_CustomizedAttribute.sourcelink.json
+C:\Users\IET\Desktop\.Net\34_demo_CustomizedAttribute\obj\Debug\net8.0\34_demo_CustomizedAttribute.dll
+C:\Users\IET\Desktop\.Net\34_demo_CustomizedAttribute\obj\Debug\net8.0\refint\34_demo_CustomizedAttribute.dll
+C:\Users\IET\Desktop\.Net\34_demo_CustomizedAttribute\obj\Debug\net8.0\34_demo_CustomizedAttribute.pdb
+C:\Users\IET\Desktop\.Net\34_demo_CustomizedAttribute\obj\Debug\net8.0\ref\34_demo_CustomizedAttribute.dll
+C:\Users\IET\Desktop\.Net\34_demo_CustomizedAttribute\bin\Debug\net8.0\31_demo_BvsAttribue.dll
+C:\Users\IET\Desktop\.Net\34_demo_CustomizedAttribute\bin\Debug\net8.0\31_demo_BvsAttribue.pdb
+C:\Users\IET\Desktop\.Net\34_demo_CustomizedAttribute\obj\Debug\net8.0\34_demo_CustomizedAttribute.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\.Net\34_demo_CustomizedAttribute\obj\Debug\net8.0\34_demo_.AB128B9F.Up2Date

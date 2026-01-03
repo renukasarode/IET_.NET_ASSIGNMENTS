@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\49_Demo_Threading\bin\Debug\net8.0\49_Demo_Threading.exe
+C:\Users\IET\Desktop\.Net\49_Demo_Threading\bin\Debug\net8.0\49_Demo_Threading.deps.json
+C:\Users\IET\Desktop\.Net\49_Demo_Threading\bin\Debug\net8.0\49_Demo_Threading.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\49_Demo_Threading\bin\Debug\net8.0\49_Demo_Threading.dll
+C:\Users\IET\Desktop\.Net\49_Demo_Threading\bin\Debug\net8.0\49_Demo_Threading.pdb
+C:\Users\IET\Desktop\.Net\49_Demo_Threading\obj\Debug\net8.0\49_Demo_Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\49_Demo_Threading\obj\Debug\net8.0\49_Demo_Threading.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\49_Demo_Threading\obj\Debug\net8.0\49_Demo_Threading.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\49_Demo_Threading\obj\Debug\net8.0\49_Demo_Threading.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\49_Demo_Threading\obj\Debug\net8.0\49_Demo_Threading.sourcelink.json
+C:\Users\IET\Desktop\.Net\49_Demo_Threading\obj\Debug\net8.0\49_Demo_Threading.dll
+C:\Users\IET\Desktop\.Net\49_Demo_Threading\obj\Debug\net8.0\refint\49_Demo_Threading.dll
+C:\Users\IET\Desktop\.Net\49_Demo_Threading\obj\Debug\net8.0\49_Demo_Threading.pdb
+C:\Users\IET\Desktop\.Net\49_Demo_Threading\obj\Debug\net8.0\49_Demo_Threading.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\49_Demo_Threading\obj\Debug\net8.0\ref\49_Demo_Threading.dll

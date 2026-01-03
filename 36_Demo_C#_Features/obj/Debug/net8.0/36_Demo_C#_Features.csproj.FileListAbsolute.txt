@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\36_Demo_C#_Features\bin\Debug\net8.0\36_Demo_C#_Features.exe
+C:\Users\IET\Desktop\.Net\36_Demo_C#_Features\bin\Debug\net8.0\36_Demo_C#_Features.deps.json
+C:\Users\IET\Desktop\.Net\36_Demo_C#_Features\bin\Debug\net8.0\36_Demo_C#_Features.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\36_Demo_C#_Features\bin\Debug\net8.0\36_Demo_C#_Features.dll
+C:\Users\IET\Desktop\.Net\36_Demo_C#_Features\bin\Debug\net8.0\36_Demo_C#_Features.pdb
+C:\Users\IET\Desktop\.Net\36_Demo_C#_Features\obj\Debug\net8.0\36_Demo_C#_Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\36_Demo_C#_Features\obj\Debug\net8.0\36_Demo_C#_Features.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\36_Demo_C#_Features\obj\Debug\net8.0\36_Demo_C#_Features.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\36_Demo_C#_Features\obj\Debug\net8.0\36_Demo_C#_Features.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\36_Demo_C#_Features\obj\Debug\net8.0\36_Demo_C#_Features.sourcelink.json
+C:\Users\IET\Desktop\.Net\36_Demo_C#_Features\obj\Debug\net8.0\36_Demo_C#_Features.dll
+C:\Users\IET\Desktop\.Net\36_Demo_C#_Features\obj\Debug\net8.0\refint\36_Demo_C#_Features.dll
+C:\Users\IET\Desktop\.Net\36_Demo_C#_Features\obj\Debug\net8.0\36_Demo_C#_Features.pdb
+C:\Users\IET\Desktop\.Net\36_Demo_C#_Features\obj\Debug\net8.0\36_Demo_C#_Features.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\36_Demo_C#_Features\obj\Debug\net8.0\ref\36_Demo_C#_Features.dll

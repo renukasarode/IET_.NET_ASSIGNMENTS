@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\.Net\30_Demo_CmathDemo\bin\Debug\net8.0\30_Demo_CmathDemo.deps.json
+C:\Users\IET\Desktop\.Net\30_Demo_CmathDemo\bin\Debug\net8.0\30_Demo_CmathDemo.dll
+C:\Users\IET\Desktop\.Net\30_Demo_CmathDemo\bin\Debug\net8.0\30_Demo_CmathDemo.pdb
+C:\Users\IET\Desktop\.Net\30_Demo_CmathDemo\obj\Debug\net8.0\30_Demo_CmathDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\30_Demo_CmathDemo\obj\Debug\net8.0\30_Demo_CmathDemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\30_Demo_CmathDemo\obj\Debug\net8.0\30_Demo_CmathDemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\30_Demo_CmathDemo\obj\Debug\net8.0\30_Demo_CmathDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\30_Demo_CmathDemo\obj\Debug\net8.0\30_Demo_CmathDemo.sourcelink.json
+C:\Users\IET\Desktop\.Net\30_Demo_CmathDemo\obj\Debug\net8.0\30_Demo_CmathDemo.dll
+C:\Users\IET\Desktop\.Net\30_Demo_CmathDemo\obj\Debug\net8.0\refint\30_Demo_CmathDemo.dll
+C:\Users\IET\Desktop\.Net\30_Demo_CmathDemo\obj\Debug\net8.0\30_Demo_CmathDemo.pdb
+C:\Users\IET\Desktop\.Net\30_Demo_CmathDemo\obj\Debug\net8.0\ref\30_Demo_CmathDemo.dll

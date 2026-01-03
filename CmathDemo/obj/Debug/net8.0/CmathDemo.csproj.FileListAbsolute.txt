@@ -1,0 +1,5 @@
+C:\Users\IET\Desktop\.Net\CmathDemo\obj\Debug\net8.0\CmathDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\CmathDemo\obj\Debug\net8.0\CmathDemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\CmathDemo\obj\Debug\net8.0\CmathDemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\CmathDemo\obj\Debug\net8.0\CmathDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\CmathDemo\obj\Debug\net8.0\CmathDemo.sourcelink.json

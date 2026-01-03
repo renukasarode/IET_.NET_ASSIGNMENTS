@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\oopInterfaceFactoryPattern\bin\Debug\net8.0\oopInterfaceFactoryPattern.exe
+C:\Users\IET\Desktop\.Net\oopInterfaceFactoryPattern\bin\Debug\net8.0\oopInterfaceFactoryPattern.deps.json
+C:\Users\IET\Desktop\.Net\oopInterfaceFactoryPattern\bin\Debug\net8.0\oopInterfaceFactoryPattern.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\oopInterfaceFactoryPattern\bin\Debug\net8.0\oopInterfaceFactoryPattern.dll
+C:\Users\IET\Desktop\.Net\oopInterfaceFactoryPattern\bin\Debug\net8.0\oopInterfaceFactoryPattern.pdb
+C:\Users\IET\Desktop\.Net\oopInterfaceFactoryPattern\obj\Debug\net8.0\oopInterfaceFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\oopInterfaceFactoryPattern\obj\Debug\net8.0\oopInterfaceFactoryPattern.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\oopInterfaceFactoryPattern\obj\Debug\net8.0\oopInterfaceFactoryPattern.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\oopInterfaceFactoryPattern\obj\Debug\net8.0\oopInterfaceFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\oopInterfaceFactoryPattern\obj\Debug\net8.0\oopInterfaceFactoryPattern.sourcelink.json
+C:\Users\IET\Desktop\.Net\oopInterfaceFactoryPattern\obj\Debug\net8.0\oopInterfaceFactoryPattern.dll
+C:\Users\IET\Desktop\.Net\oopInterfaceFactoryPattern\obj\Debug\net8.0\refint\oopInterfaceFactoryPattern.dll
+C:\Users\IET\Desktop\.Net\oopInterfaceFactoryPattern\obj\Debug\net8.0\oopInterfaceFactoryPattern.pdb
+C:\Users\IET\Desktop\.Net\oopInterfaceFactoryPattern\obj\Debug\net8.0\oopInterfaceFactoryPattern.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\oopInterfaceFactoryPattern\obj\Debug\net8.0\ref\oopInterfaceFactoryPattern.dll
